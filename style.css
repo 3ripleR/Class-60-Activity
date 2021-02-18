@@ -1,0 +1,42 @@
+#ul{
+    list-style: none;
+    z-index: 1;
+    position: fixed;
+    top: 10px;
+    right: 10px;
+}
+.l:hover{
+    background-color: darkgoldenrod;
+    cursor: pointer;
+}
+body{
+    text-align: center;
+}
+.l{
+    float: left;
+    padding: 10px;
+    font-family: cursive;
+}
+html{
+    scroll-behavior: smooth;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+#img{
+    height: 600px;
+    width: 400px;
+    
+}
+#spin{
+    padding-right: 200px;
+}
+#Apps{
+    z-index: 0;
+}
+.an{
+    width: 500px;
+    height: 500px;
+    
+}
